@@ -56,3 +56,7 @@ Envie index.html à raiz do seu repositório ou site. Não é necessário compil
 Testes da lógica verificaram os 12 temas, os três intervalos numéricos, o zero, alternativas válidas, pares de posições, sequências alternadas e figura diferente. No navegador de computador, foram conferidos início, mapa, todas as onze rodadas da identificação numérica, erros e acertos, cesta vazia, adição e retirada, arraste da bola, posições, cenários diurno/noturno, seleção do céu, sequência e diferente. Também foi conferida a interface e uma tarefa de posição em janela de 390 pixels de largura. Não equivale a um teste em aparelho físico. O navegador de teste não disponibilizou voz em português; o timbre precisa ser experimentado no aparelho de destino.
 
 As ilustrações da vila e dos personagens foram criadas especificamente para o jogo. Os objetos interativos são desenhos vetoriais independentes, para manter nitidez e precisão ao tocar.
+
+## Ajustes desta versão
+- Ao acertar, o jogo avança automaticamente após uma breve comemoração; não é necessário clicar em Continuar/Avançar.
+- O botão Mostrar Pista exibe uma pista visual em formato de imagem/diagrama, sem indicar diretamente a resposta correta.
